@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="199" viewBox="0 0 199 199">
+  <defs>
+    <filter id="_05_21" x="40" y="81" width="64" height="42" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#fc7400"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_75_" x="92" y="73" width="66" height="51" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#fca500"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_50" x="0" y="0" width="199" height="199" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#fc7400"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="main_photo_text" transform="translate(-171 -121)">
+    <g id="Group_39" data-name="Group 39" transform="translate(-37 4)">
+      <g transform="matrix(1, 0, 0, 1, 208, 117)" filter="url(#_05_21)">
+        <text id="_05_21-2" data-name="05/21" transform="translate(72 109)" fill="#fff" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="-22.913" y="0">05/21</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 208, 117)" filter="url(#_75_)">
+        <text id="_75_2" data-name="75%" transform="translate(125 109)" fill="#fff" font-size="25" font-family="SegoeUI, Segoe UI"><tspan x="-23.706" y="0">75%</tspan></text>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 171, 121)" filter="url(#Path_50)">
+      <path id="Path_50-2" data-name="Path 50" d="M210.5-48A90.6,90.6,0,0,1,120-138.5h3A87.6,87.6,0,0,0,210.5-51,87.6,87.6,0,0,0,298-138.5,87.6,87.6,0,0,0,210.5-226v-3A90.6,90.6,0,0,1,301-138.5,90.6,90.6,0,0,1,210.5-48Z" transform="translate(-111 238)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

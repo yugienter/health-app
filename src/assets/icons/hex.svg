@@ -1,0 +1,10 @@
+<svg id="component_hex" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136" viewBox="0 0 136 136">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.267" x2="0.715" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcc21"/>
+      <stop offset="1" stop-color="#ff963c"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="136" height="136" fill="none"/>
+  <path id="Path_48" data-name="Path 48" d="M100.5,0,134,58l-33.5,58h-67L0,58,33.5,0Z" transform="translate(10 135) rotate(-90)" fill="url(#linear-gradient)"/>
+</svg>
