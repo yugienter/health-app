@@ -12,7 +12,7 @@ Swagger: http://localhost:3002/api
 
 # Database diagram:
 
-![Database diagram](https://github.com/yugienter/)
+![Database diagram](https://github.com/yugienter/health-app/blob/master/api/Diagram.png)
 
 ## Authentication/Authorization 
 
